@@ -1,3 +1,5 @@
+__NOTE__: this repo was forked to get the fixes for configuring options ([redis-store/#169](https://github.com/jodosha/redis-store/pull/169)).
+
 [![Build Status](https://secure.travis-ci.org/jodosha/redis-store.png?branch=master)](http://travis-ci.org/jodosha/redis-store?branch=master) [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/jodosha/redis-store)
 
 # Redis stores for Ruby frameworks
